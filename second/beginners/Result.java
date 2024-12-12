@@ -11,7 +11,7 @@ package com.mycompany.second;
 public class Result {
 //    private Result_Structure[] allResultsArr = {new Result_Structure(0,0)};
     private Result_Structure[] allResultsArr; //the error is => Cannot store to object array because "this.allResultsArr" is null
-   Result_Structure = new 
+//   Result_Structure = new 
 //    constructor
 
     public void  pushingToAllResultsArr (int index, int que, int ans){
